@@ -47,6 +47,8 @@ d) Def ubah(nama) untuk mengubah data di dalam parameter nama dan gunakan statme
 
 ### 4.Dalam statment if elif else di isikan dengan memanggil masing-masing method yang ada di dalam class mahasiswa.
 
+## Flowchart
+
 ![gambar 4](img/4.png)
 
 # SEKIAN DAN TERIMAKASIH
